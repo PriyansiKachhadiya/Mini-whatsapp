@@ -1,0 +1,1 @@
+This mini WhatsApp project is a real-time messaging platform with a simple UI. Built using EJS for dynamic views, Express for server logic, and Mongoose for data management, it offers a smooth and intuitive chat experience.
